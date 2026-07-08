@@ -47,7 +47,7 @@ The goal is to build:
 3. Write a **dry run** for the example.
 4. Implement the solution independently in **C++17**.
 5. After getting accepted, note the **Pattern + Mistake + What You Learned**.
-6. After completing a problem, change `[ ]` to `[x]`.
+6. After completing a problem, change `[x]` to `[x]`.
 7. Revise important problems again.
 
 ---
@@ -95,17 +95,17 @@ Revision Date:
   --------------------------------------------------------------------------------------------------------------------------------------------
   Done                    Q Codeforces Problem                                                             Rating Pattern      What You Learn
   ---------- -------------- ---------------------------------------------------------------------- -------------- ------------ ---------------
-  \[ \]                  Q1 [4A - Watermelon](https://codeforces.com/problemset/problem/4/A)                  800 Direct       Input-output,
+  \[x \]                  Q1 [4A - Watermelon](https://codeforces.com/problemset/problem/4/A)                  800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-  \[ \]                  Q2 [71A - Way Too Long                                                               800 Direct       Input-output,
+  \[x\]                  Q2 [71A - Way Too Long                                                               800 Direct       Input-output,
                             Words](https://codeforces.com/problemset/problem/71/A)                                Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-  \[ \]                  Q3 [231A - Team](https://codeforces.com/problemset/problem/231/A)                    800 Direct       Input-output,
+  \[x\]                  Q3 [231A - Team](https://codeforces.com/problemset/problem/231/A)                    800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
