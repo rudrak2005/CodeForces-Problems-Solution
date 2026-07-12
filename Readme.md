@@ -110,27 +110,27 @@ Revision Date:
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q4 [282A - Bit++](https://codeforces.com/problemset/problem/282/A)                   800 Direct       Input-output,
+- [x] Q4 [282A - Bit++](https://codeforces.com/problemset/problem/282/A)                   800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q5 [158A - Next Round](https://codeforces.com/problemset/problem/158/A)              800 Direct       Input-output,
+- [x] Q5 [158A - Next Round](https://codeforces.com/problemset/problem/158/A)              800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q6 [50A - Domino piling](https://codeforces.com/problemset/problem/50/A)             800 Direct       Input-output,
+- [x] Q6 [50A - Domino piling](https://codeforces.com/problemset/problem/50/A)             800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q7 [263A - Beautiful                                                                 800 Direct       Input-output,
+- [x] Q7 [263A - Beautiful                                                                 800 Direct       Input-output,
                             Matrix](https://codeforces.com/problemset/problem/263/A)                              Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q8 [112A - Petya and                                                                 800 Direct       Input-output,
+- [] Q8 [112A - Petya and                                                                 800 Direct       Input-output,
                             Strings](https://codeforces.com/problemset/problem/112/A)                             Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
