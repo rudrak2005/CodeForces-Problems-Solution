@@ -130,17 +130,17 @@ Revision Date:
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [] Q8 [112A - Petya and                                                                 800 Direct       Input-output,
+- [x] Q8 [112A - Petya and                                                                 800 Direct       Input-output,
                             Strings](https://codeforces.com/problemset/problem/112/A)                             Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q9 [339A - Helpful                                                                   800 Direct       Input-output,
+- [x] Q9 [339A - Helpful                                                                   800 Direct       Input-output,
                             Maths](https://codeforces.com/problemset/problem/339/A)                               Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q10 [281A - Word                                                                      800 Direct       Input-output,
+- [x] Q10 [281A - Word                                                                      800 Direct       Input-output,
                             Capitalization](https://codeforces.com/problemset/problem/281/A)                      Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
@@ -150,12 +150,12 @@ Revision Date:
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q12 [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A)             800 Direct       Input-output,
+- [x] Q12 [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A)             800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q13 [617A - Elephant](https://codeforces.com/problemset/problem/617/A)                800 Direct       Input-output,
+- [x] Q13 [617A - Elephant](https://codeforces.com/problemset/problem/617/A)                800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
