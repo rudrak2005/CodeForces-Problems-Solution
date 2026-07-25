@@ -145,7 +145,7 @@ Revision Date:
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q11 [266A - Stones on the                                                             800 Direct       Input-output,
+- [X] Q11 [266A - Stones on the                                                             800 Direct       Input-output,
                             Table](https://codeforces.com/problemset/problem/266/A)                               Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
@@ -160,22 +160,22 @@ Revision Date:
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q14 [791A - Bear and Big                                                              800 Direct       Input-output,
+- [X] Q14 [791A - Bear and Big                                                              800 Direct       Input-output,
                             Brother](https://codeforces.com/problemset/problem/791/A)                             Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q15 [546A - Soldier and                                                               800 Direct       Input-output,
+- [X] Q15 [546A - Soldier and                                                               800 Direct       Input-output,
                             Bananas](https://codeforces.com/problemset/problem/546/A)                             Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q16 [59A - Word](https://codeforces.com/problemset/problem/59/A)                      800 Direct       Input-output,
+- [X] Q16 [59A - Word](https://codeforces.com/problemset/problem/59/A)                      800 Direct       Input-output,
                                                                                                                   Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q17 [977A - Wrong                                                                     800 Direct       Input-output,
+- [X] Q17 [977A - Wrong                                                                     800 Direct       Input-output,
                             Subtraction](https://codeforces.com/problemset/problem/977/A)                         Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
