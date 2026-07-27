@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 
 ---
@@ -22,6 +22,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 
 ### math
