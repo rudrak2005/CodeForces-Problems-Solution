@@ -180,7 +180,7 @@ Revision Date:
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
 
-- [ ] Q18 [110A - Nearly Lucky                                                              800 Direct       Input-output,
+- [x] Q18 [110A - Nearly Lucky                                                              800 Direct       Input-output,
                             Number](https://codeforces.com/problemset/problem/110/A)                              Simulation / loops aur
                                                                                                                   Conditions   conditions ko
                                                                                                                                strong
