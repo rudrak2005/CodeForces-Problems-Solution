@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 3 |
+| 8 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (1)
 - [strings](#strings) (3)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### implementation
 
