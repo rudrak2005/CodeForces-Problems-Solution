@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 4 |
+| 10 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
+- [brute force](#brute-force) (1)
 - [implementation](#implementation) (7)
 - [math](#math) (1)
 - [strings](#strings) (3)
@@ -25,6 +26,12 @@
 |---|---------|------------|----------|
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 
 ### implementation
 
