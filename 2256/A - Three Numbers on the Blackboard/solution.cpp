@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+#include<algorithm>
+using namespace std;
+ 
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+ 
+ int t; 
+ cin>>t;
+ while(t--){
+	 long long a, b, c;
+	 cin>>a>>b>>c;
+	 
+	 vector<long long> v = {a,b,c};
+	 sort(v.begin(), v.end());
+	 long long x= v[0];
+	 long long y=v[1];
+	 long long  z= v[2];
+	 
+	 cout<<min(z - x, y)<<'
+';		
+ }
+	 return 0;
+}
