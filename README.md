@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 6 |
+| 14 | 9 |
 
 ---
 
@@ -14,8 +14,11 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (9)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [graph matchings](#graph-matchings) (1)
+- [implementation](#implementation) (10)
 - [math](#math) (2)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -34,6 +37,18 @@
 |---|---------|------------|----------|
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -43,6 +58,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
@@ -54,6 +70,12 @@
 |---|---------|------------|----------|
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### sortings
 
