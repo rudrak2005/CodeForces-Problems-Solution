@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 9 |
+| 15 | 9 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -59,6 +59,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
