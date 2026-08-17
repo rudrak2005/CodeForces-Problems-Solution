@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 10 |
+| 20 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
@@ -32,6 +32,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### brute force
 
