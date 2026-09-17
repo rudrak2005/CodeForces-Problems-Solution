@@ -13,16 +13,16 @@ int main() {
 			cin>>home[i]>>away[i];
 		}
 		
-		int ans=0;
+		int answer=0;
 		
 		for(int i =0; i<n; i++){
 			for(int j =0; j<n; j++){
 				if(i != j && home[i] == away[j]){
-					ans++;
+					answer++;
 				}
 			}
 		}
-		cout<<ans<<'
+		cout<<answer<<'
 ';
     return 0;
 }
