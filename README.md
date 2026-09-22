@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 4 |
+| 8 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (6)
+- [games](#games) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
 ---
@@ -30,6 +32,12 @@
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -41,6 +49,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
