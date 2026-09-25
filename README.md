@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 8 |
+| 15 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (10)
+- [Uncategorized](#uncategorized) (11)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
@@ -37,6 +37,7 @@
 | 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 | 2267E | [Clean Substrings](https://codeforces.com/contest/2267/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/E%20-%20Clean%20Substrings/solution.cpp) |
+| 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
 
 ### games
 
