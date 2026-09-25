@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 8 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (8)
+- [Uncategorized](#uncategorized) (9)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
@@ -35,6 +35,7 @@
 | 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### games
 
