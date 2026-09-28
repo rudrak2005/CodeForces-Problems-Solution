@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 8 |
+| 21 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (16)
+- [brute force](#brute-force) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -44,6 +45,12 @@
 | 2269D | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2269/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/D%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2269F | [AghaBalaSar and Hamed](https://codeforces.com/contest/2269/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/F%20-%20AghaBalaSar%20and%20Hamed/solution.cpp) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -62,6 +69,7 @@
 |---|---------|------------|----------|
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
 ### math
 
@@ -88,6 +96,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
 ---
 
