@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 9 |
+| 23 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (16)
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
-- [math](#math) (2)
-- [number theory](#number-theory) (1)
+- [implementation](#implementation) (5)
+- [math](#math) (3)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
@@ -45,6 +46,12 @@
 | 2269D | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2269/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/D%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2269F | [AghaBalaSar and Hamed](https://codeforces.com/contest/2269/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/F%20-%20AghaBalaSar%20and%20Hamed/solution.cpp) |
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -68,6 +75,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
@@ -76,6 +84,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
@@ -83,6 +92,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
