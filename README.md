@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 12 |
+| 36 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (16)
+- [Uncategorized](#uncategorized) (17)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
@@ -47,6 +47,7 @@
 | 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
 | 2269D | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2269/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/D%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
 | 2269F | [AghaBalaSar and Hamed](https://codeforces.com/contest/2269/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/F%20-%20AghaBalaSar%20and%20Hamed/solution.cpp) |
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### binary search
 
