@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 13 |
+| 44 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (10)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (4)
@@ -119,6 +119,7 @@
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 
 ### math
 
