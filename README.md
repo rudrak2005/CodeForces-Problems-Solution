@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 13 |
+| 53 | 13 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (15)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (4)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -125,6 +125,7 @@
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
@@ -175,6 +176,7 @@
 |---|---------|------------|----------|
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 
 ### two pointers
 
