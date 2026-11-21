@@ -12,10 +12,9 @@ int main() {
         int n, k;
         cin >> n >> k;
  
-        long long big = 1LL << (n - k + 1);
-        long long answer = big + 2LL * (k - 1);
+        int ans = (1 << (n - k + 1)) + 2 * (k - 1);
  
-        cout << answer << '
+        cout << ans << '
 ';
     }
  
