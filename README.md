@@ -6,183 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 13 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (20)
-- [binary search](#binary-search) (4)
-- [brute force](#brute-force) (6)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [dp](#dp) (2)
-- [games](#games) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (20)
-- [math](#math) (15)
-- [number theory](#number-theory) (6)
-- [sortings](#sortings) (4)
-- [strings](#strings) (3)
-- [two pointers](#two-pointers) (1)
+- [greedy](#greedy) (1)
+- [math](#math) (1)
 
 ---
-
-### Uncategorized
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
-| 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
-| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
-| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
-| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
-| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
-| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
-| 2266F | [MEX Replacement](https://codeforces.com/contest/2266/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/F%20-%20MEX%20Replacement/solution.cpp) |
-| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
-| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
-| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
-| 2267E | [Clean Substrings](https://codeforces.com/contest/2267/problem/E) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/E%20-%20Clean%20Substrings/solution.cpp) |
-| 2267F1 | [XOR Transformations (Easy Version)](https://codeforces.com/contest/2267/problem/F1) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2267/F1%20-%20XOR%20Transformations%20(Easy%20Version)/solution.cpp) |
-| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
-| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
-| 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
-| 2269D | [What a SauSaGe! It's All Meat](https://codeforces.com/contest/2269/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/D%20-%20What%20a%20SauSaGe!%20It's%20All%20Meat/solution.cpp) |
-| 2269F | [AghaBalaSar and Hamed](https://codeforces.com/contest/2269/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/F%20-%20AghaBalaSar%20and%20Hamed/solution.cpp) |
-| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
-| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
-
-### binary search
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
-| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
-| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
-| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
-| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
-| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
-| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
-| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
-| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
-
-### constructive algorithms
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
-| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
-
-### dp
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
-| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
-
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
-| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
-| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
-| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
-| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
-| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
-| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
-| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
-| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
-| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
-| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
-| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
-| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
-| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
-| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
-| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
-| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
-| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
-| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
-| 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
-| 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
-| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
-| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
-| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
-| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
-| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
-| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
-| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
-| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
-| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
-| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
-| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
-| 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
-| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
-| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
-| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
-| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
-| 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
-| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
-| 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
-| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
-| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
-| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
-| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
-| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
-| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
-| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
-| 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
-
-### two pointers
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ---
 
