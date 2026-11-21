@@ -1,16 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-int nextValue(int x) {
-    int sum = 0;
- 
+long long step_fn(long long x) {
+    long long s = 0;
     while (x > 0) {
-        int digit = x % 10;
-        sum += digit * digit;
+        long long d = x % 10;
+        s += d * d;
         x /= 10;
     }
+    return s;
+}
  
-    return sum;
+void solve() {
+    int n;
+    cin >> n;
+ 
+    unordered_map<long long, long long> freq;
+    freq.reserve(n * 2);
+ 
+    for (int i = 0; i < n; ++i) {
+        long long x;
+        cin >> x;
+        for (int iter = 0; iter < 1000; ++iter) {
+            x = step_fn(x);
+        }
+        ++freq[x];
+    }
+ 
+    long long ans = 0;
+    for (const auto& [val, c] : freq) {
+        ans += c * (c - 1) / 2;
+    }
+ 
+    cout << ans << '
+';
 }
  
 int main() {
@@ -19,33 +42,8 @@ int main() {
  
     int t;
     cin >> t;
- 
     while (t--) {
-        int n;
-        cin >> n;
- 
-        unordered_map<int, long long> freq;
- 
-        for (int i = 0; i < n; i++) {
-            int x;
-            cin >> x;
- 
-            for (int step = 0; step < 1000; step++) {
-                x = nextValue(x);
-            }
- 
-            freq[x]++;
-        }
- 
-        long long answer = 0;
- 
-        for (auto &[value, count] : freq) {
-            answer += count * (count - 1) / 2;
-        }
- 
-        cout << answer << '
-';
+        solve();
     }
- 
     return 0;
 }
