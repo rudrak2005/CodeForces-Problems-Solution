@@ -6,18 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (1)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2273A | [Lavencia Oranges](https://codeforces.com/contest/2273/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2273/A%20-%20Lavencia%20Oranges/solution.cpp) |
 
 ### brute force
 
@@ -25,12 +34,25 @@
 |---|---------|------------|----------|
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2273A | [Lavencia Oranges](https://codeforces.com/contest/2273/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2273/A%20-%20Lavencia%20Oranges/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2273A | [Lavencia Oranges](https://codeforces.com/contest/2273/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2273/A%20-%20Lavencia%20Oranges/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
+| 2273A | [Lavencia Oranges](https://codeforces.com/contest/2273/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/rudrak2005/CodeForces-Problems-Solution/blob/HEAD/2273/A%20-%20Lavencia%20Oranges/solution.cpp) |
 
 ### implementation
 
