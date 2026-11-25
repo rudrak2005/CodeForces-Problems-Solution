@@ -16,9 +16,10 @@ int main() {
         cin >> a >> b >> c;
  
         int strong = min({a, b, c});
-        int weak = n - strong;
  
-        cout << weak << '
+        int ans = n - strong;
+ 
+        cout << ans << '
 ';
     }
  
